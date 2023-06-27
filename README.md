@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/darealdyl](https://dev.to/darealdyl)
 
-- 💬 Ask me about **javascript, react, ruby, rails**
+- 💬 Ask me about **javascript, react, ruby, rails, python, HTML, CSS**
 
 - 📫 How to reach me **dylanrhinehart@gmail.com**
 
