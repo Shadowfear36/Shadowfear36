@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dylan Rhinehart</h1>
-<h3 align="center">Experienced in Ruby on Rails and JavaScript based programming and a background in Project Management, Branding and Marketing. Have dabbled in the Solana Blockchain.</h3>
+<h3 align="center">Experienced in Ruby on Rails, Django, & React based programming and a background in Project Management, Branding and Marketing. Have dabbled in the Solana Blockchain.</h3>
 
 - 🔭 I’m currently working on [Audiophile](https://github.com/Shadowfear36/Audiophile)
 
