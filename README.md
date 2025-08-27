@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dylan Rhinehart</h1>
-<h3 align="center">Experienced in Ruby on Rails, Django, & React based programming and a background in Project Management, Branding and Marketing. Have dabbled in the Solana Blockchain.</h3>
+<h3 align="center">Experienced in Ruby on Rails, Python, Django, Express, Next, React, Pytorch, AI/Deep Learning, Docker, Redis, Redux, Linux, Windows</h3>
 
-- 🔭 I’m currently working on [Audiophile](https://github.com/Shadowfear36/Audiophile)
+- 🔭 I’m currently working on Computer Vision Tasks
 
-- 🌱 I’m currently learning **Python, Solidity, & Expanding my skills with React & Rails**
+- 🌱 I’m currently learning more about **Python, Kubernetes, React, AI, Sockets, GRPC**
 
 - 👯 I’m looking to collaborate on **Anything that impacts the world on a day to day basis.**
 
 - 📝 I regularly write articles on [https://dev.to/darealdyl](https://dev.to/darealdyl)
 
-- 💬 Ask me about **javascript, react, ruby, rails, python, django, HTML, CSS**
+- 💬 Ask me about **javascript, react, ruby, rails, python, django, HTML, CSS, pytorch, tensorflow**
 
 - 📫 How to reach me **dylanrhinehart@gmail.com**
 
