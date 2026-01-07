@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dylan Rhinehart</h1>
 <h3 align="center">Experienced in Ruby on Rails, Python, Django, Express, Next, React, Pytorch, AI/Deep Learning, Docker, Redis, Redux, Linux, Windows</h3>
 
-- 🔭 I’m currently working on Computer Vision Tasks
+- 🔭 I’m currently working on SegHiero: Hierarchical Semantic Segmentation Framework
 
 - 🌱 I’m currently learning more about **Python, Kubernetes, React, AI, Sockets, GRPC**
 
